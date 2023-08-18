@@ -2,7 +2,8 @@ version: '3.1'
 
 services:
   itvanti-chatbot:
-    image: itvanti/chatbot:business
+    # image: itvanti/chatbot:business
+    image: us-west1-docker.pkg.dev/railway-infra/railway-docker-users/project/8da39564-420f-413e-9a60-1668ba306210/service/1eaecaec-3e3e-4dfc-a7cf-24e2fde7e986
     restart: always
     environment:
       - PORT=${PORT}
