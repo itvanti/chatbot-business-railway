@@ -1,3 +1,3 @@
 
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/QG5ByQ?referralCode=nREPAH)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/jyRhce?referralCode=nREPAH)
