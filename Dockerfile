@@ -2,8 +2,8 @@ FROM itvanti/bot-itvanti:business
 
 USER root
 
-ENV PUPPETEER_SKIP_DOWNLOAD=true
-ENV PUPPETEER_EXECUTABLE_PATH=/usr/bin/chromium-browser
+# ENV PUPPETEER_SKIP_DOWNLOAD=true
+# ENV PUPPETEER_EXECUTABLE_PATH=/usr/bin/chromium-browser
 
 # Set environment variables
 ARG PORT
