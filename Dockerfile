@@ -1,4 +1,4 @@
-FROM itvanti/bot-itvanti:020102
+FROM itvanti/bot-itvanti:020201
 
 USER root
 
