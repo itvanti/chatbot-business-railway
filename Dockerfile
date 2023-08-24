@@ -1,5 +1,5 @@
 
-FROM itvanti/bot-itvanti:020201
+FROM itvanti/bot-itvanti:latest
 
 USER root
 
