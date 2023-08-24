@@ -1,4 +1,4 @@
-FROM itvanti/bot-itvanti:business
+FROM itvanti/bot-itvanti:020102
 
 USER root
 
