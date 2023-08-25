@@ -1,4 +1,3 @@
-
 FROM itvanti/bot-itvanti:latest
 
 USER root
